@@ -29,6 +29,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>xwiki-platform-job-api</artifactId>
+  <name>XWiki Platform - Job - API</name>
+  <packaging>jar</packaging>
+  <description>XWiki Platform - Job - API</description>
+
+  <properties>
+    <xwiki.jacoco.instructionRatio>0.61</xwiki.jacoco.instructionRatio>
+  </properties>
 
   <dependencies>
     <dependency>
